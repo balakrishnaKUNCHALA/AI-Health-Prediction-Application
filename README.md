@@ -53,13 +53,13 @@ health-prediction-app/
 ### Step 1: Clone the Repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/balakrishnaKUNCHALA/AI-Health-Prediction-Application.git
 ```
 
 ### Step 2: Navigate to Project Folder
 
 ```bash
-cd health-prediction-app
+cd AI-Health-Prediction-Application
 ```
 
 ### Step 3: Install Dependencies
