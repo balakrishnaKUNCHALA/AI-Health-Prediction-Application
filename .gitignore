@@ -1,0 +1,4 @@
+.env
+__pycache__/
+health_records.db
+test_gemini.py
